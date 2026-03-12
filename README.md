@@ -7,7 +7,7 @@
 **data** *is a piece of information*
 
 ### examples
-measurement & words 
+*measurement & words* 
 
 ### DIFFERENCE BETWEEN *structured data & unstructured data*
 
@@ -15,21 +15,20 @@ measurement & words
 
 ### EXAMPLES of structured data 
 
--*customer records*
--*name  age country* 
--*David  12 kenya* 
--*chacha 29 American* 
+- *customer records*
+- *name  age country* 
+- *David  12 kenya* 
+- *chacha 29 American* 
 
 ### EXAMPLES of unstructured data
--photos
--videos 
+- photos
+- videos 
 
 ### SCHEMA 
 
 *is a structure that defines how data is organised in a database*
 
-### EXAMPLE of schema
-
-1.STUDENT.  ID NAME.  AGE COUNTRY 
-2.38059205   Laur  19  Uganda 
-3.35068205  Kevin 25  Tanzania 
+### EXAMPLEs
+1.ID        NAME  AGE  COUNTRY  
+2.38059205  Laur  19   Uganda
+3.35068205  Kevin  25  Tanzania 
