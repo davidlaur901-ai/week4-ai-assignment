@@ -13,7 +13,7 @@
 
 **structured data** *is organised in a clear format usually in row's and columns*
 
-# Structured Data Example
+### Structured Data Example
 
 ## Student Table Example
 
