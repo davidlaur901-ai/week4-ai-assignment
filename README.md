@@ -30,5 +30,8 @@
 
 ### EXAMPLEs
 1. ID        NAME  AGE  COUNTRY  
-2. 38059205  Laur  19   Uganda
-3. 35068205  Kevin  25  Tanzania 
+2. 38059205  Laur   19   Uganda
+
+- [ ] ID.          AGE NAME 
+- [ ] *38059204.  19. LAUR*
+- [ ] *34864067.  24. Ryzan*
