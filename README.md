@@ -1,34 +1,35 @@
 # week4-ai-assignment
 
-David laur 
+# David laur 
 
-DATA
+# DATA
 
-data is a piece of information
+*data is a piece of information*
 
-examples of data are measurement & words 
+# examples
+measurement & words 
 
-DIFFERENCE BETWEEN structured data & unstructured data 
+# DIFFERENCE BETWEEN *structured data & unstructured data*
 
-structured data is organised in a clear format usually in row's and columns while unstructured data is not organised in a fixed format 
+structured data *is organised in a clear format usually in row's and columns while unstructured data is not organised in a fixed format*
 
-examples of structured data
+# EXAMPLES of structured data 
 
-customer records
-Name  age country 
-David  12 kenya 
-chacha 29 American 
+-customer records
+-Name  age country 
+-David  12 kenya 
+-chacha 29 American 
 
-examples of unstructured data
-photos
-videos 
+# EXAMPLES of unstructured data
+-photos
+-videos 
 
-SCHEMA 
+# SCHEMA 
 
-a structure that defines how data is organised in a database 
+*is a structure that defines how data is organised in a database*
 
-examples of schema
+# EXAMPLE of schema
 
-STUDENT ID NAME AGE COUNTRY 
-38059205  Laur  19  Uganda 
-35068205  Kevin 25  Tanzania 
+1.STUDENT ID NAME AGE COUNTRY 
+2.38059205  Laur  19  Uganda 
+3.35068205  Kevin 25  Tanzania 
