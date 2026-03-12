@@ -11,16 +11,22 @@
 
 ### DIFFERENCE BETWEEN *structured data & unstructured data*
 
-**structured data** *is organised in a clear format usually in row's and columns while unstructured data is not organised in a fixed format*
+**structured data** *is organised in a clear format usually in row's and columns*
 
-### EXAMPLES of structured data 
+# Structured Data Example
 
-- *customer records*
-- *name  age country* 
-- *David  12 kenya* 
-- *chacha 29 American* 
+## Student Table Example
 
-### EXAMPLES of unstructured data
+| Student_ID | Name  | Age | Course |
+|------------|-------|-----|--------|
+| 101 | David | 21 | AI |
+| 102 | Sarah | 22 | Data Science |
+| 103 | John | 20 | Computer Science |
+
+ **unstructured data**  *does not follow a fixed format or table structure*
+
+
+### unstructured data example 
 - photos
 - videos 
 
