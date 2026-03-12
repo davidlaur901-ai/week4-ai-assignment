@@ -29,6 +29,6 @@
 *is a structure that defines how data is organised in a database*
 
 ### EXAMPLEs
-1.ID        NAME  AGE  COUNTRY  
-2.38059205  Laur  19   Uganda
-3.35068205  Kevin  25  Tanzania 
+1. ID        NAME  AGE  COUNTRY  
+2. 38059205  Laur  19   Uganda
+3. 35068205  Kevin  25  Tanzania 
