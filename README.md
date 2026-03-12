@@ -15,7 +15,7 @@
 
 ### Structured Data Example
 
-## Student Table Example
+### Student Table Example
 
 | Student_ID | Name  | Age | Course |
 |------------|-------|-----|--------|
