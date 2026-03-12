@@ -4,7 +4,7 @@
 
 ### DATA
 
-**data** *is a piece of information*
+- **data** *is a piece of information*
 
 ### examples
 *measurement & words* 
