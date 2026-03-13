@@ -34,10 +34,12 @@
 
 - *is a structure that defines how data is organised in a database*
 
-### EXAMPLEs
-1. ID        NAME  AGE  COUNTRY  
-2. 38059205  Laur   19   Uganda
-
-- [ ] ID.          AGE NAME 
-- [ ] *38059204.  19. LAUR*
-- [ ] *34864067.  24. Ryzan*
+### EXAMPLE 
+{
+  "name": "David Laur",
+  "age": 20,
+  "skills": ["Python", "AI", "Git"]
+}
+- name :string
+- age  : numbers 
+- skill:array/list
